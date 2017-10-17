@@ -1,0 +1,8 @@
+com\test\swagger\SwaggerConfig.class
+com\test\controllers\GreetingController.class
+com\test\swagger\Profiles.class
+com\test\bean\Greeting.class
+com\test\swagger\Spring.class
+com\test\Application.class
+com\test\yaml\YAMLConfig.class
+com\test\swagger\Server.class

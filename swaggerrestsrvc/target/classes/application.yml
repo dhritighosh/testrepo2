@@ -1,0 +1,25 @@
+spring:
+  profiles:
+    active: test
+name: test-YAML
+environment: test
+server:
+  port: 8888
+
+---
+spring:
+  profiles:
+    active: prod
+name: prod-YAML
+environment: production
+server:
+  port: 9999
+
+---
+spring:
+  profiles:
+    active: test
+name: test-YAML
+environment: test
+server:
+  port: 8888
